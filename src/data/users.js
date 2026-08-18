@@ -13,13 +13,13 @@
 export const users = [
   {
     username: 'admin',
-    password: '1234',
+    password: '12345678',
     name: 'ผู้ดูแลระบบ',
     role: 'Admin',
   },
   {
     username: 'user',
-    password: '1234',
+    password: '12345678',
     name: 'ผู้ใช้งานทั่วไป',
     role: 'Member',
   },
